@@ -1,0 +1,9 @@
+{
+  "name": "qa",
+  "private": true,
+  "devDependencies": {
+    "@types/jasminewd2": "~2.0.3",
+    "jasmine-core": "~3.4.0",
+    "protractor": "^7.0.0"
+  }
+}
